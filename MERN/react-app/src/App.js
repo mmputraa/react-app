@@ -8,6 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello React JS!
+          <br />
+          Semoga berhasil
         </p>
         <a
           className="App-link"
