@@ -9,7 +9,7 @@ function App() {
         <p>
           Hello React JS!
           <br />
-          Semoga berhasil
+          Semoga berhasil dan aman kedepannya
         </p>
         <a
           className="App-link"
