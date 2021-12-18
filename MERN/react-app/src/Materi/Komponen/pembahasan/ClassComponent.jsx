@@ -2,10 +2,13 @@ import React from "react";
 
 class ClassComponent extends React.Component {
 
+
+
     render() {
         return(
             <div>
-                <h1>Hello World</h1>
+                <h1>Class Component</h1>
+                <h2>Hello {this.props.nama}, selamat belajar Class Component</h2>
             </div>
         )
     }
