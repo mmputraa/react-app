@@ -1,9 +1,10 @@
-import Komponen from "./Materi/Komponen";
+import React from "react";
+import Portfolio from "./Portfolio/index";
 
 function App() {
-  return (
-    <div className="App">
-        <Komponen />
+  return ( 
+    <div className = "App" >
+    <Portfolio />
     </div>
   );
 }
