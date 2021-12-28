@@ -24,16 +24,17 @@ body {
 .h {
     text-align: left;
     font-size: 35px;
-    padding: 225px 50px;
+    padding: 200px 40px;
     text-shadow: 2px 2px 5px rgb(85, 81, 81);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: oblique;
 }
 
 .img-fluid {
-    width: 280px;
-    margin: 70px;
-    border-radius: 25px;
+    width: 320px;
+    height: auto;
+    margin: 60px;
+    border-radius: 40px;
     opacity: 90%;
 }
 

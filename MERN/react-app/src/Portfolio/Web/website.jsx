@@ -1,7 +1,6 @@
 import React from "react";
 import "./index.css";
-// import { img } from "./_MG_8644.JPG"
-
+import img1 from "./images/img1.jpg"
 
 export default class Web extends React.Component {
 
@@ -24,30 +23,30 @@ export default class Web extends React.Component {
                     </div>
                 </nav>
 
-                <div class="container">
-                    <div class="row">
-                        <div class="col-8">
-                            <div class="h">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-8">
+                            <div className="h">
                                 <h3>Hello, my name is</h3>
                                 <h1>MUHAMMAD MUKHLISH SAPUTRA</h1>
                                 <h4>I'm ready to design your website <br /> and present the best project.</h4>
                             </div>
                         </div>
-                        <div>
-                            {/* <img src={img} alt="img" className="img-fluid" />; */}
-                        </div>
+
+                        <img src={img1} className="img-fluid" alt="img" />
+
                     </div>
                 </div>
 
                 <div className="box">
-                    <div class="flex-container">
-                        <div class="text">
+                    <div className="flex-container">
+                        <div className="text">
                             Personal Branding
                         </div>
-                        <div class="text">
+                        <div className="text">
                             Web <br /> Designer
                         </div>
-                        <div class="text">
+                        <div className="text">
                             Full Stack Developer
                         </div>
                     </div>

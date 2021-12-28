@@ -4,7 +4,7 @@ import Portfolio from "./Portfolio/index";
 function App() {
   return ( 
     <div className = "App" >
-    <Portfolio />
+      <Portfolio />
     </div>
   );
 }
