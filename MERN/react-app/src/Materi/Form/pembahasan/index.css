@@ -1,0 +1,14 @@
+.h2 {
+    text-align: center;
+}
+
+.Form {
+    margin: 100px 200px;
+    border: 1px solid;
+    padding: 70px;
+    border-radius: 18px;
+}
+
+.SignUp {
+    border-radius: 6px;
+}

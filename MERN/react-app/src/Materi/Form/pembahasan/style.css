@@ -1,0 +1,16 @@
+.Form {
+    margin: 100px 200px;
+    border: 1px solid;
+    padding: 70px;
+}
+
+.Form {
+    background-color: rgb(158, 179, 221);
+}
+
+.SignUp {
+    margin-left: 50px;
+    border: none;
+    border-radius: 6px;
+    background-color: rgb(92, 146, 245);
+}
